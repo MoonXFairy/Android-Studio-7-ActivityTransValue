@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_num7_ActivityTransValue</string>
+    <string name="Hw7_pageA">A 頁面</string>
+    <string name="Hw7_pageB">B 頁面</string>
+    <string name="Hw7_pageAtoB">切換 B 頁面</string>
+    <string name="Hw7_pageBtoA">切換 A 頁面</string>
+    <string name="Hw7_input">請輸入數值: </string>
+    <string name="Hw7_pageBInput">B 頁面輸入數值</string>
+    <string name="Hw7_pageAInput">A 頁面輸入數值</string>
+</resources>
